@@ -26,6 +26,18 @@ Offsetted Basic Shaders
 These shaders are used to [draw lines on a surface]
 (http://en.wikibooks.org/wiki/OpenGL_Programming/Scientific_OpenGL_Tutorial_05#Drawing_the_grid_on_top_of_the_surface).
 
+Background Shaders
+------------------
+
+- BG Gradation
+
+Stencil Shaders
+---------------
+
+- Stencil Increment No Color
+- Stenciled BG Gradation
+- Stenciled Untextured Diffuse
+
 License
 -------
 
